@@ -28,7 +28,7 @@ To build this project, you need the following items:
 
 Gather your parts then follow the schematics below.
 
-![ESP32 Favoriot](https://raw.githubusercontent.com/LintangWisesa/ESP8266_Favoriot/master/ESP8266-Favoriot.png)
+![ESP32 Favoriot](https://raw.githubusercontent.com/LintangWisesa/ESP32_Favoriot/master/ESP32_Favoriot.png)
 
 #
 
