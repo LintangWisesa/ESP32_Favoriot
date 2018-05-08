@@ -104,7 +104,7 @@ void loop() {
 }
 ```
 
-To upload more than 1 value, use this:
+To upload multiple values, use this:
 
 ```c++
 String json = "{\"device_developer_id\":\"deviceDefault@User\",
